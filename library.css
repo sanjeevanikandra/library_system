@@ -65,7 +65,8 @@ html {
     position: absolute;
     top: 35px;
     left: 0;
-    box-shadow: 0 5px 15px rgba(105, 128, 105, 0.8);
+    background-color: wheat;
+    box-shadow: 15px 15px 15px rgba(105, 128, 105, 0.8);
     backdrop-filter: blur(10px);
     color: black;
     font-weight: bold;
